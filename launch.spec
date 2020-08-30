@@ -6,7 +6,7 @@ block_cipher = None
 a = Analysis(['launch.py'],
              pathex=[''],
              binaries=[],
-             datas=[('GoogleChromePortable', 'GoogleChromePortable')],
+             datas=[],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=False,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True , icon='favicon.ico')
+          console=False , icon='favicon.ico')
