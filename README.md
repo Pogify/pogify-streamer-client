@@ -1,0 +1,1 @@
+Download Chrome Portable [here](https://github.com/Pogify/pogify-client/releases/latest/download/GoogleChromePortable.zip)
