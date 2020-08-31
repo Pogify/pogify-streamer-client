@@ -3,3 +3,4 @@ GoogleChromePortable
 __pycache__/
 dist/
 build/
+node_modules

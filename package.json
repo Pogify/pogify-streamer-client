@@ -1,0 +1,25 @@
+{
+  "name": "pogify-client",
+  "version": "1.0.0",
+  "description": "Download Chrome Portable [here](https://github.com/Pogify/pogify-client/releases/latest/download/GoogleChromePortable.zip)",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "node-fetch": "^2.6.0",
+    "unzipper": "^0.10.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pogify/pogify-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pogify/pogify-client/issues"
+  },
+  "homepage": "https://github.com/Pogify/pogify-client#readme"
+}
