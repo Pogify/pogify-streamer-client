@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       archive: pogify-streamer-client-win10
-      url: https://pogify-br-edgehtml-compat.herokuapp.com/create
+      url: https://pogify-br-edgehtml-compat.herokuapp.com/
     steps:
     - uses: actions/checkout@v2
     - name: Print GitHub context
