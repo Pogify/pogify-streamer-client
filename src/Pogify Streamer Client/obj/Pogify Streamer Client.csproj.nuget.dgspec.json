@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj": {}
+    "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj": {
+    "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj",
-        "projectName": "Spotify-Streamer-Client",
-        "projectPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj",
+        "projectUniqueName": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj",
+        "projectName": "Pogify Streamer Client",
+        "projectPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj",
         "packagesPath": "C:\\Users\\kento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\obj\\",
+        "outputPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -22,20 +22,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "uap10.0.17763"
+          "uap10.0.17134"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "uap10.0.17763": {
+          "uap10.0.17134": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "uap10.0.17763": {
+        "uap10.0.17134": {
           "dependencies": {
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",

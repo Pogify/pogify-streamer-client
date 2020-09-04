@@ -8,14 +8,14 @@
   IgnorableNamespaces="uap uap3 mp">
 
   <Identity
-    Name="3ba4bd80-76b4-4190-9473-294b2a852441"
+    Name="ee10636d-96e0-4194-912b-8a3697e1bf74"
     Publisher="CN=kento"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="3ba4bd80-76b4-4190-9473-294b2a852441" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="ee10636d-96e0-4194-912b-8a3697e1bf74" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>Spotify-Streamer-Client</DisplayName>
+    <DisplayName>Pogify Streamer Client</DisplayName>
     <PublisherDisplayName>kento</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -31,12 +31,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="Spotify_Streamer_Client.App">
+      EntryPoint="Pogify_Streamer_Client.App">
       <uap:VisualElements
-        DisplayName="Spotify-Streamer-Client"
+        DisplayName="Pogify Streamer Client"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="Spotify-Streamer-Client"
+        Description="Pogify Streamer Client"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

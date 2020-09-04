@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWkLBjwxQYv/XiYRaYGfVEpz11VuO3+i8m9aUjWut4xljSIajgxGKSl+9Cpu6JGv4g/yqUR582iNu6shMsN9DA==",
+  "dgSpecHash": "+0ppD/88ORNJbr6k0ymubAe0ABiF/h4FzcfmJUep6j617LPkAp/oyC7Z+wj447ZAVkYO9t0BWcpeBjUKAqWBzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj",
+  "projectFilePath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",

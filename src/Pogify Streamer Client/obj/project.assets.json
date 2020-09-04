@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "UAP,Version=v10.0.17763": {
+    "UAP,Version=v10.0.17134": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -308,7 +308,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-arm": {
+    "UAP,Version=v10.0.17134/win10-arm": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -794,7 +794,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-arm-aot": {
+    "UAP,Version=v10.0.17134/win10-arm-aot": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -1281,7 +1281,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-arm64-aot": {
+    "UAP,Version=v10.0.17134/win10-arm64-aot": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -1768,7 +1768,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-x64": {
+    "UAP,Version=v10.0.17134/win10-x64": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -2254,7 +2254,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-x64-aot": {
+    "UAP,Version=v10.0.17134/win10-x64-aot": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -2741,7 +2741,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-x86": {
+    "UAP,Version=v10.0.17134/win10-x86": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -3227,7 +3227,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.17763/win10-x86-aot": {
+    "UAP,Version=v10.0.17134/win10-x86-aot": {
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -8146,7 +8146,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "UAP,Version=v10.0.17763": [
+    "UAP,Version=v10.0.17134": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10"
     ]
   },
@@ -8157,11 +8157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj",
-      "projectName": "Spotify-Streamer-Client",
-      "projectPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\Spotify-Streamer-Client.csproj",
+      "projectUniqueName": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj",
+      "projectName": "Pogify Streamer Client",
+      "projectPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\Pogify Streamer Client.csproj",
       "packagesPath": "C:\\Users\\kento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\Spotify-Streamer-Client\\Spotify-Streamer-Client\\obj\\",
+      "outputPath": "C:\\Users\\kento\\Documents\\GitHub\\pogify-streamer-client\\src\\Pogify Streamer Client\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8172,20 +8172,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "uap10.0.17763"
+        "uap10.0.17134"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "uap10.0.17763": {
+        "uap10.0.17134": {
           "projectReferences": {}
         }
       }
     },
     "frameworks": {
-      "uap10.0.17763": {
+      "uap10.0.17134": {
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",

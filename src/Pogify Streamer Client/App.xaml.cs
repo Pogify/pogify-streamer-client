@@ -16,7 +16,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace Spotify_Streamer_Client
+namespace Pogify_Streamer_Client
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
