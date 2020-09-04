@@ -4,3 +4,16 @@ __pycache__/
 dist/
 build/
 node_modules
+
+
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.log
+*.pdb
+*.vcproj.*.user
+[Dd]ebug
+[Rr]elease
