@@ -1,2 +1,0 @@
-MainPackage=C:\Users\kento\Documents\GitHub\pogify-streamer-client\src\Pogify Streamer Client\bin\x86\Debug\Pogify Streamer Client_0.1.0.0_x86_Debug.appx
-SymbolPackage=C:\Users\kento\Documents\GitHub\pogify-streamer-client\src\Pogify Streamer Client\obj\x86\Debug\Symbols\Pogify Streamer Client_0.1.0.0_x86_Debug.appxsym

@@ -8,15 +8,15 @@
   IgnorableNamespaces="uap uap3 mp">
 
   <Identity
-    Name="ee10636d-96e0-4194-912b-8a3697e1bf74"
-    Publisher="CN=kento"
+    Name="63363KentoNishi.Pogify"
+    Publisher="CN=FF5D6FE4-C1C9-43BE-81F4-E631AC468004"
     Version="0.1.1.0" />
 
-  <mp:PhoneIdentity PhoneProductId="ee10636d-96e0-4194-912b-8a3697e1bf74" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="801fa864-6f89-4e45-8a45-2e33d7fa1d7f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Pogify Streamer Client</DisplayName>
-    <PublisherDisplayName>kento</PublisherDisplayName>
+    <PublisherDisplayName>Kento Nishi</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
