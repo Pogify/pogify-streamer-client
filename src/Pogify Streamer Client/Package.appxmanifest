@@ -10,7 +10,7 @@
   <Identity
     Name="ee10636d-96e0-4194-912b-8a3697e1bf74"
     Publisher="CN=kento"
-    Version="1.0.0.0" />
+    Version="0.1.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="ee10636d-96e0-4194-912b-8a3697e1bf74" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

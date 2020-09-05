@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <WebView LoadCompleted="WebView_LoadCompleted" Source="https://pogify-br-edgehtml-compat.herokuapp.com/"/>
+        <WebView Source="https://pogify-dev.herokuapp.com/"/>
     </Grid>
 </Page>
