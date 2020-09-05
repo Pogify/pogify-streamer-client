@@ -8,6 +8,7 @@ using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.Media;
+using Windows.Media.Playback;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -72,8 +73,12 @@ namespace Pogify_Streamer_Client
                 // Ensure the current window is active
                 Window.Current.Activate();
             }
-            SystemMediaTransportControls.GetForCurrentView().IsPlayEnabled = true;
-            SystemMediaTransportControls.GetForCurrentView().IsPauseEnabled = true;
+            var view = SystemMediaTransportControls.GetForCurrentView();
+            view.IsPlayEnabled = true;
+            view.IsPauseEnabled = true;
+            view.DisplayUpdater.Type = Windows.Media.MediaPlaybackType.Music;
+            view.DisplayUpdater.MusicProperties.Title = "Pogify Streamer Client";
+            view.DisplayUpdater.Update();
         }
 
         /// <summary>
