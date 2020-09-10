@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <WebView Source="https://pogify-dev.herokuapp.com/"/>
+        <WebView Source="https://dev.pogify.net/"/>
     </Grid>
 </Page>
